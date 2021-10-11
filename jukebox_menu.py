@@ -1,5 +1,4 @@
 # Lecture 130-137
-# Note lecture 130 was view only
 # Python lets us import things from other Python files,
 # which can be a great way to share data between different programs.
 # Importing data from nested_data python file
